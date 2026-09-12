@@ -1,3 +1,9 @@
+## [1.3.4](https://github.com/DeepL/deepl-mcp-server/compare/v1.3.3...v1.3.4) (2026-09-12)
+
+### Fixed
+
+* **deps:** update dependency zod to v4.6.0 ([56b4f7c](https://github.com/DeepL/deepl-mcp-server/commit/56b4f7cb746a251efed53def945d1d06d0ef6219))
+
 ## [1.3.3](https://github.com/DeepL/deepl-mcp-server/compare/v1.3.2...v1.3.3) (2026-09-01)
 
 ### Fixed
