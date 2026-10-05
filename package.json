@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/DeepL/deepl-mcp-server#readme",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.31.0",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "deepl-node": "1.28.0",
     "zod": "4.6.5"
   },
