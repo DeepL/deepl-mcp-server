@@ -1,3 +1,9 @@
+## [1.3.13](https://github.com/DeepL/deepl-mcp-server/compare/v1.3.12...v1.3.13) (2026-10-08)
+
+### Fixed
+
+* **deps:** update dependency @modelcontextprotocol/sdk to v1.32.1 ([80b411a](https://github.com/DeepL/deepl-mcp-server/commit/80b411ade90ab18df2d2bb118afbbf91af7a591a))
+
 ## [1.3.12](https://github.com/DeepL/deepl-mcp-server/compare/v1.3.11...v1.3.12) (2026-10-05)
 
 ### Fixed
