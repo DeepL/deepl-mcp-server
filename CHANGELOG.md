@@ -1,3 +1,9 @@
+## [1.3.14](https://github.com/DeepL/deepl-mcp-server/compare/v1.3.13...v1.3.14) (2026-10-12)
+
+### Fixed
+
+* **deps:** update dependency deepl-node to v1.28.1 ([da45848](https://github.com/DeepL/deepl-mcp-server/commit/da45848aafb73fea063d6c60ad430ff2901b93c8))
+
 ## [1.3.13](https://github.com/DeepL/deepl-mcp-server/compare/v1.3.12...v1.3.13) (2026-10-08)
 
 ### Fixed
