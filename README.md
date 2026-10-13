@@ -3,6 +3,11 @@
 [![Version](https://img.shields.io/npm/v/deepl-mcp-server.svg)](https://www.npmjs.org/package/deepl-mcp-server)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blueviolet.svg)](https://github.com/DeepL/deepl-mcp-server/blob/main/LICENSE)
 
+> [!NOTE]
+> For the best experience and the latest features check out the [DeepL remote MCP server](https://www.deepl.com/en/ai-agents) to use DeepL in your AI agent. No installation required, just add it to Claude, ChatGPT, Microsoft Copilot or any MCP client and sign in with your DeepL account.
+>
+> Working in a terminal or with a coding agent? [Try the DeepL CLI](https://github.com/DeepL/deepl-cli). It covers translation, documents, glossaries and i18n file sync with your API key.
+
 A Model Context Protocol (MCP) server that exposes DeepL text translation, document translation, rephrasing, and glossary and style rule lookups as MCP tools.
 
 ## Usage
