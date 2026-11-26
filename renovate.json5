@@ -28,6 +28,8 @@
       description: "Automerge non-major updates once the pipeline passes",
       matchUpdateTypes: ["minor", "patch", "pin", "digest", "pinDigest", "lockFileMaintenance"],
       addLabels: ["automerge"],
+      automerge: true,
+      autoApprove: true,
     },
   ],
 }
